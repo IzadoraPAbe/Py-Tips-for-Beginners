@@ -4,7 +4,7 @@ This repository contains studies and tips on learning Python.
 > Difficulty: ⭐
 
 > Techs: ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
-
+---
 ## Start Here
 This repository contains beginner-friendly Python examples to help you get started with the basics of the language. It covers fundamental concepts such as variable types, the print function, string formatting using format, and how to take user input with input. It's a great starting point for anyone new to programming with Python.
 
